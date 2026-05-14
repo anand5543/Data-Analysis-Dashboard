@@ -28,3 +28,16 @@ The objective of this project is to analyze customer purchasing behavior using a
 ## Dashboard
 Interactive Excel Dashboard with charts, pivot tables, and slicers.
 <img width="907" height="658" alt="Screenshot 2026-05-14 130605" src="https://github.com/user-attachments/assets/008b8050-1f69-424f-8616-ed4b56f49b28" />
+
+## Project Insights
+•	Middle-aged customers are more likely to purchase bikes. 
+•	Customers with higher annual income show a greater tendency to buy bikes. 
+•	Male customers contribute slightly more to bike purchases compared to female customers. 
+•	Shorter commute distances are associated with higher bike purchase rates. 
+•	Married customers show significant interest in purchasing bikes. 
+•	Professionals and skilled workers are among the top bike buyers. 
+
+## Final Conclusion
+The analysis shows that income, age, occupation, and commute distance strongly influence bike purchasing behavior. Customers with moderate to high income levels and shorter commute distances are more likely to purchase bikes. Businesses can use these insights to target the right customer segments through focused marketing strategies and improve overall sales performance.
+
+
